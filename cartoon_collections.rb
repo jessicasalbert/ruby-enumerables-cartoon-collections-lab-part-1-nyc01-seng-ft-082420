@@ -12,3 +12,4 @@ end
 
 
 greet_characters(["jessica", "rous"])
+list_dwarves(["dopey", "sneezy"])
