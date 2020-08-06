@@ -9,3 +9,6 @@ def list_dwarves(array)
     puts "#{index}. #{char}"
   end
 end
+
+
+greet_characters(["jessica", "rous"])
