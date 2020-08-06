@@ -9,7 +9,3 @@ def list_dwarves(array)
     puts "#{index + 1}. #{char}"
   end
 end
-
-
-greet_characters(["jessica", "rous"])
-list_dwarves(["dopey", "sneezy"])
